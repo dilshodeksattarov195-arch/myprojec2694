@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentdecrypt",
+        "uuid": 8944080,
+        "checksum": "57265o"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "production"
+    }
+}
